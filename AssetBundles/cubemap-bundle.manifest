@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3497475289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b049e158b7fc4218221fabfa1f2b5977
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2658f3a82ff5015cfac1043556e10e2
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Cubemap/Coworking.jpg
+- Assets/Cubemap/Mezzanine.jpg
+- Assets/Cubemap/Terrasse.jpg
+- Assets/Cubemap/Accueil.jpg
+- Assets/Cubemap/Halle.jpg
+Dependencies: []
