@@ -1,20 +1,29 @@
 ManifestFileVersion: 0
-CRC: 1940840629
+CRC: 3401453170
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 56e5f2adb725385692598256044b23b2
+    Hash: 70e7f069634c73bd2381da6623ebc550
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e2658f3a82ff5015cfac1043556e10e2
+    Hash: 2647da76b7c2a83bec3b2e630339714c
 HashAppended: 0
 ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
 - Class: 89
   Script: {instanceID: 0}
 Assets:
+- Assets/Cubemap/Materials/Accueil.mat
 - Assets/Cubemap/Coworking.jpg
 - Assets/Cubemap/Mezzanine.jpg
+- Assets/Cubemap/Materials/Halle.mat
 - Assets/Cubemap/Terrasse.jpg
 - Assets/Cubemap/Accueil.jpg
+- Assets/Cubemap/Materials/Coworking.mat
+- Assets/Cubemap/Materials/Mezzanine.mat
 - Assets/Cubemap/Halle.jpg
+- Assets/Cubemap/Materials/Terrasse.mat
 Dependencies: []
