@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1508272722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d108f83ac859985f71685e5b19dc87c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/TestScene.unity
+Dependencies:
+- C:/Users/mlefebvre/Desktop/Valentin/Entrainement/shader/AssetBundles/Android/material-bundle
